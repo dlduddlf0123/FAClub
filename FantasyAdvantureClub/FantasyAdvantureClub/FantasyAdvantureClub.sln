@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyAdvantureClub", "FantasyAdvantureClub.csproj", "{1F0E856F-AB4E-9B56-77C1-44283794DC54}"
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FantasyAdvantureClub.CSharp", "FantasyAdvantureClub.CSharp.csproj", "{0EB5CA75-0F7A-D54F-8083-606AB0140E9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1F0E856F-AB4E-9B56-77C1-44283794DC54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F0E856F-AB4E-9B56-77C1-44283794DC54}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F0E856F-AB4E-9B56-77C1-44283794DC54}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F0E856F-AB4E-9B56-77C1-44283794DC54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EB5CA75-0F7A-D54F-8083-606AB0140E9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB5CA75-0F7A-D54F-8083-606AB0140E9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB5CA75-0F7A-D54F-8083-606AB0140E9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB5CA75-0F7A-D54F-8083-606AB0140E9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
