@@ -58,10 +58,10 @@ public class PlayerCharacter : MonoBehaviour {
 
         Time.timeScale = 1f;
 
-        StartCoroutine(Update());
+        StartCoroutine(State());
     }
 
-    IEnumerator Update()
+    IEnumerator State()
     {
         while (gameMgr.sGame != GAME.GAMEOVER)
         {
